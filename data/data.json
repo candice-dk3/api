@@ -1,0 +1,109 @@
+{
+    "aboutme":"My name is Candice Keet and I am a student at Life Choices",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/candice-dk3/Calculator.git",
+            "vercel":"https://calculator-zeta-vert-97.vercel.app/",
+            "description":"A simple calculator built using HTML, CSS and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/candice-dk3/Keyboard.git",
+            "vercel":"https://key-board-rho.vercel.app/",
+            "description":"A simple keyboard built using HTML, CSS and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Temp-Convertor",
+            "github":"https://github.com/candice-dk3/Temp-Convertor.git",
+            "vercel":"https://temp-convertor-tau.vercel.app/",
+            "description":"A simple Temperature calculator built using HTML, CSS and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Swegga-project",
+            "github":"https://github.com/candice-dk3/Swegga-project.git",
+            "vercel":"https://swegga-project-two.vercel.app/",
+            "description":"A simple website built using HTML, CSS and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"JS-EOMP",
+            "github":"https://github.com/candice-dk3/JS-EOMP.git",
+            "vercel":"https://js-eomp-kappa.vercel.app/",
+            "description":"My JavaScript End of Module Project built using HTML, CSS and JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"BMI-Calculator",
+            "github":"https://github.com/candice-dk3/BMI-Calculator.git",
+            "vercel":"https://bmi-calculator-lake-delta.vercel.app/",
+            "description":"A simple BMI calculator built using HTML, CSS and JavaScript",
+            "image":"URL"
+        }
+    ],
+    "educaation":[
+        {
+            "description":"My High School years.",
+            "year":"2017-2023",
+            "placeOfInsitution":"Garlandale"
+        },
+        {
+            "description":"My Coding journey.",
+            "year":"2nd April - to present/current",
+            "placeOfInsitution":"Life Choices Coding Academy"
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        },
+        {
+            "name":"JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"VueJS",
+            "image":"URL"
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Kayden Hendrieks",
+            "position":"Fellow colleague",
+            "message":""
+        },
+        {
+            "name":"Caitlin Dalwai",
+            "position":"Fellow colleague",
+            "message":""
+        },
+        {
+            "name":"Masoodah Geoerge",
+            "position":"Fellow colleague",
+            "message":""
+        },
+        {
+            "name":"Nikilitha Kakaza",
+            "position":"Fellow colleague",
+            "message":""
+        },
+        {
+            "name":"Olwethu Malumla",
+            "position":"Fellow colleague",
+            "message":""
+        },
+        {
+            "name":"",
+            "position":"Fellow colleague",
+            "message":""
+        }
+    ]
+}
