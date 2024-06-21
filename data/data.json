@@ -44,16 +44,16 @@
             "image":"URL"
         }
     ],
-    "educaation":[
+    "education":[
         {
             "description":"My High School years.",
             "year":"2017-2023",
-            "placeOfInsitution":"Garlandale"
+            "placeOfInstitution":"Garlandale"
         },
         {
             "description":"My Coding journey.",
             "year":"2nd April - to present/current",
-            "placeOfInsitution":"Life Choices Coding Academy"
+            "placeOfInstitution":"Life Choices Coding Academy"
         }
     ],
     "skills":[
