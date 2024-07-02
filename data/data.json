@@ -1,57 +1,74 @@
 {
-    "aboutme":"My name is Candice Keet and I am a student at Life Choices",
+    "about":[
+        {
+            "name":"Candice Danelle Keet",
+            "dOB":"03 October 2005",
+            "email":"candicekeet3@gmail.com",
+            "address":"Bontehuewel, Cape Town"
+        },
+        {
+            "message":"Hii, my name is Candice Keet and I'm an aspiring full-stack developer."
+        }
+    ],
     "projects":[
         {
             "name":"Calculator",
             "github":"https://github.com/candice-dk3/Calculator.git",
             "vercel":"https://calculator-zeta-vert-97.vercel.app/",
-            "description":"A simple calculator built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"A basic calculator built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/calculator.png?raw=true"
         },
         {
             "name":"Keyboard",
             "github":"https://github.com/candice-dk3/Keyboard.git",
             "vercel":"https://key-board-rho.vercel.app/",
-            "description":"A simple keyboard built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"A basic keyboard built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/keyboard.png?raw=true"
         },
         {
             "name":"Temp-Convertor",
             "github":"https://github.com/candice-dk3/Temp-Convertor.git",
             "vercel":"https://temp-convertor-tau.vercel.app/",
-            "description":"A simple Temperature calculator built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"A simple Temperature calculator built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/temp-convertor.png?raw=true"
         },
         {
             "name":"Swegga-project",
             "github":"https://github.com/candice-dk3/Swegga-project.git",
             "vercel":"https://swegga-project-two.vercel.app/",
-            "description":"A simple website built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"A simple website built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/swegga.png?raw=true"
         },
         {
             "name":"JS-EOMP",
             "github":"https://github.com/candice-dk3/JS-EOMP.git",
             "vercel":"https://js-eomp-kappa.vercel.app/",
-            "description":"My JavaScript End of Module Project built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"My JavaScript End of Module Project built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/js-eomp.png?raw=true"
         },
         {
             "name":"BMI-Calculator",
             "github":"https://github.com/candice-dk3/BMI-Calculator.git",
             "vercel":"https://bmi-calculator-lake-delta.vercel.app/",
-            "description":"A simple BMI calculator built using HTML, CSS and JavaScript",
-            "image":"URL"
+            "description":"A simple BMI calculator built using HTML, CSS and JavaScript.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/bmi-cal.png?raw=true"
+        },
+        {
+            "name":"Wild & Wacky Vegeatbles",
+            "github":"https://github.com/candice-dk3/Wacky-Wednesday",
+            "vercel":"https://wacky-wednesday.vercel.app/",
+            "description":"This is a basic web page made with HTML, CSS and Bootstrap.",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/wacky-veg.png?raw=true"
         }
     ],
     "education":[
         {
-            "description":"My High School years.",
+            "description":"I matriculated from Garlandale High with a bachelor's pass. My  subjects were English, Afrikaans, Life Orientation, Math, Economics, Business Studies and Tourism.",
             "year":"2017-2023",
             "placeOfInstitution":"Garlandale"
         },
         {
-            "description":"My Coding journey.",
+            "description":"Through Life Choices I'm currently learning the skills needed to become a full-stack developer. So far the journey has been tough but being here at the academy has taught me many things and I'm open to learning more.",
             "year":"2nd April - to present/current",
             "placeOfInstitution":"Life Choices Coding Academy"
         }
@@ -59,50 +76,65 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"URL"
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/html.png?raw=true",
+            "level":"Intermediate"
         },
         {
             "name":"CSS",
-            "image":"URL"
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/css.png?raw=true",
+            "level":"Intermediate"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/bootstrap.png?raw=true",
+            "level":"Intermediate"
         },
         {
             "name":"JavaScript",
-            "image":"URL"
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/javascript.png?raw=true",
+            "level":"Beginner"
         },
         {
             "name":"VueJS",
-            "image":"URL"
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/logo.png?raw=true",
+            "level":"Beginner"
         }
     ],
     "testimonials":[
         {
             "name":"Kayden Hendrieks",
+            "image":"",
             "position":"Fellow colleague",
             "message":""
         },
         {
             "name":"Caitlin Dalwai",
+            "image":"",
             "position":"Fellow colleague",
-            "message":""
+            "message":"During my time at Life Choices Academy so far, Candice has been one of the best parts. Candice is a dedicated student and is always going the extra mile. She can speak to literally anyone and become their friend which is a great skill to have when it comes to networking and gaining more knowledge and resources from others. Candice is never shy to help which emphasizes how great of a team player she is. Any company would be lucky to have her."
         },
         {
             "name":"Masoodah Geoerge",
+            "image":"",
             "position":"Fellow colleague",
-            "message":""
+            "message":"It is in my best interest to write a testimonial for Candice. Her enthusiastic character and infectious positivity makes anyone feel special. Not only is she a lovely person, she is an excellent listener and expresses herself very well. Her personality reflects in everything she does, including her work. If you ask me, Candice is more than the perfect candidate"
         },
         {
             "name":"Nikilitha Kakaza",
+            "image":"",
             "position":"Fellow colleague",
-            "message":""
+            "message":"Candice brings positivity to the workplace. Even during tough times, she maintains an optimistic outlook, motivating others and creating a pleasant atmosphere. Candice approaches challenges with ingenuity. She thinks outside the box, propose innovative solutions, and adapt well to unexpected situations. Her creativity adds value to the team."
         },
         {
             "name":"Olwethu Malumla",
+            "image":"",
             "position":"Fellow colleague",
-            "message":""
+            "message":"I feel fortunate to have had the opportunity to learn alongside Candice Keet, and I have no doubt that they will go on to achieve great things.Her positive energy is contagious, and she has a way of making everyone feel included and valued. If you have the chance to work with or learn from Candice, consider yourself lucky she is a true asset to any team or community!"
         },
         {
-            "name":"",
-            "position":"Fellow colleague",
+            "name":"Matthew Brown",
+            "image":"",
+            "position":"Lecturer",
             "message":""
         }
     ]
