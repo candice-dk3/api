@@ -15,59 +15,48 @@
             "name":"Calculator",
             "github":"https://github.com/candice-dk3/Calculator.git",
             "vercel":"https://calculator-zeta-vert-97.vercel.app/",
-            "description":"A basic calculator built using HTML, CSS and JavaScript.",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/calculator.png?raw=true"
         },
         {
             "name":"Keyboard",
             "github":"https://github.com/candice-dk3/Keyboard.git",
             "vercel":"https://key-board-rho.vercel.app/",
-            "description":"A basic keyboard built using HTML, CSS and JavaScript.",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/keyboard.png?raw=true"
         },
         {
             "name":"Temp-Convertor",
             "github":"https://github.com/candice-dk3/Temp-Convertor.git",
             "vercel":"https://temp-convertor-tau.vercel.app/",
-            "description":"A simple Temperature calculator built using HTML, CSS and JavaScript.",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/temp-convertor.png?raw=true"
-        },
-        {
-            "name":"Swegga-project",
-            "github":"https://github.com/candice-dk3/Swegga-project.git",
-            "vercel":"https://swegga-project-two.vercel.app/",
-            "description":"A simple website built using HTML, CSS and JavaScript.",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/swegga.png?raw=true"
         },
         {
             "name":"JS-EOMP",
             "github":"https://github.com/candice-dk3/JS-EOMP.git",
             "vercel":"https://js-eomp-kappa.vercel.app/",
-            "description":"My JavaScript End of Module Project built using HTML, CSS and JavaScript.",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/js-eomp.png?raw=true"
+        },
+        {
+            "name":"Swegga-project",
+            "github":"https://github.com/candice-dk3/Swegga-project.git",
+            "vercel":"https://swegga-project-two.vercel.app/",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/swegga.png?raw=true"
         },
         {
             "name":"BMI-Calculator",
             "github":"https://github.com/candice-dk3/BMI-Calculator.git",
             "vercel":"https://bmi-calculator-lake-delta.vercel.app/",
-            "description":"A simple BMI calculator built using HTML, CSS and JavaScript.",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/bmi-cal.png?raw=true"
-        },
-        {
-            "name":"Wild & Wacky Vegeatbles",
-            "github":"https://github.com/candice-dk3/Wacky-Wednesday",
-            "vercel":"https://wacky-wednesday.vercel.app/",
-            "description":"This is a basic web page made with HTML, CSS and Bootstrap.",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/wacky-veg.png?raw=true"
         }
     ],
     "education":[
         {
+            "id": "1",
             "description":"I matriculated from Garlandale High with a bachelor's pass. My  subjects were English, Afrikaans, Life Orientation, Math, Economics, Business Studies and Tourism.",
             "year":"2017-2023",
             "placeOfInstitution":"Garlandale"
         },
         {
+            "id": "2",
             "description":"Through Life Choices I'm currently learning the skills needed to become a full-stack developer. So far the journey has been tough but being here at the academy has taught me many things and I'm open to learning more.",
             "year":"2nd April - to present/current",
             "placeOfInstitution":"Life Choices Coding Academy"
