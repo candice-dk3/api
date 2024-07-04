@@ -50,13 +50,11 @@
     ],
     "education":[
         {
-            "id": "1",
             "description":"I matriculated from Garlandale High with a bachelor's pass. My  subjects were English, Afrikaans, Life Orientation, Math, Economics, Business Studies and Tourism.",
             "year":"2017-2023",
-            "placeOfInstitution":"Garlandale"
+            "placeOfInstitution":"Garlandale High School"
         },
         {
-            "id": "2",
             "description":"Through Life Choices I'm currently learning the skills needed to become a full-stack developer. So far the journey has been tough but being here at the academy has taught me many things and I'm open to learning more.",
             "year":"2nd April - to present/current",
             "placeOfInstitution":"Life Choices Coding Academy"
