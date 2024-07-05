@@ -7,7 +7,7 @@
             "address":"Bontehuewel, Cape Town"
         },
         {
-            "message":"Hii, my name is Candice Keet and I'm an aspiring full-stack developer."
+            "message":"Hii, my name is Candice Keet and I'm an aspiring full-stack developer. Who am I? is what you might be wondering of right. Well, I would like to introduce myself as a dedicated, hard-working and aspiring Web Developer who is hoping to soar in the tech world. I believe myself to be a hard worker who is dedicated to doing her best and nothing less. I may not be the best developer at the moment but in due time, I believe I will be at a level where I deem myself the best. During my free time I enjoy baking, being outdoors and doing some coding exercises. "
         }
     ],
     "projects":[
@@ -90,37 +90,37 @@
     "testimonials":[
         {
             "name":"Kayden Hendrieks",
-            "image":"",
+            "image":"https://github.com/candice-dk3/BootStrap-Project/blob/main/Assets/image/Kayden-Hendrieks.jpg?raw=true",
             "position":"Fellow colleague",
-            "message":""
+            "message":"Kindness radiates from her every action, making her a joy to be around. Her intelligence shines through in everything she does, whether it's tackling a challenging project or offering insightful advice. Candice's work ethic is truly admirable; she's relentless in her pursuit of excellence, always going the extra mile to achieve her goals. And to top it all off, her sense of humor is infectious, bringing lightness and laughter to any situation."
         },
         {
             "name":"Caitlin Dalwai",
-            "image":"",
+            "image":"https://github.com/candice-dk3/BootStrap-Project/blob/main/Assets/image/Caitlin-Dalwai.jpg?raw=true",
             "position":"Fellow colleague",
             "message":"During my time at Life Choices Academy so far, Candice has been one of the best parts. Candice is a dedicated student and is always going the extra mile. She can speak to literally anyone and become their friend which is a great skill to have when it comes to networking and gaining more knowledge and resources from others. Candice is never shy to help which emphasizes how great of a team player she is. Any company would be lucky to have her."
         },
         {
             "name":"Masoodah Geoerge",
-            "image":"",
+            "image":"https://github.com/candice-dk3/BootStrap-Project/blob/main/Assets/image/Masoodah-George.jpg?raw=true",
             "position":"Fellow colleague",
             "message":"It is in my best interest to write a testimonial for Candice. Her enthusiastic character and infectious positivity makes anyone feel special. Not only is she a lovely person, she is an excellent listener and expresses herself very well. Her personality reflects in everything she does, including her work. If you ask me, Candice is more than the perfect candidate"
         },
         {
             "name":"Nikilitha Kakaza",
-            "image":"",
+            "image":"https://github.com/candice-dk3/BootStrap-Project/blob/main/Assets/image/Nikilitha-Kakaza.PNG?raw=true",
             "position":"Fellow colleague",
             "message":"Candice brings positivity to the workplace. Even during tough times, she maintains an optimistic outlook, motivating others and creating a pleasant atmosphere. Candice approaches challenges with ingenuity. She thinks outside the box, propose innovative solutions, and adapt well to unexpected situations. Her creativity adds value to the team."
         },
         {
             "name":"Olwethu Malumla",
-            "image":"",
+            "image":"https://mquanaazi.github.io/huluImages/myPic.jpg",
             "position":"Fellow colleague",
             "message":"I feel fortunate to have had the opportunity to learn alongside Candice Keet, and I have no doubt that they will go on to achieve great things.Her positive energy is contagious, and she has a way of making everyone feel included and valued. If you have the chance to work with or learn from Candice, consider yourself lucky she is a true asset to any team or community!"
         },
         {
             "name":"Matthew Brown",
-            "image":"",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/Matthew%20(1).png?raw=true",
             "position":"Lecturer",
             "message":""
         }
