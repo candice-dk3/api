@@ -35,42 +35,42 @@
             "description":"This was my Javascript end of module project.",
             "github":"https://github.com/candice-dk3/JS-EOMP.git",
             "vercel":"https://js-eomp-kappa.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/js-eomp.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/js-eomp.png?raw=true"
         },
         {
             "name":"Calculator",
             "description":"This is a calculator",
             "github":"https://github.com/candice-dk3/Calculator.git",
             "vercel":"https://calculator-zeta-vert-97.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/calculator.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/calculator.png?raw=true"
         },
         {
             "name":"Keyboard",
             "description":"This is a keyboard.",
             "github":"https://github.com/candice-dk3/Keyboard.git",
             "vercel":"https://key-board-rho.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/keyboard.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/keyboard.png?raw=true"
         },
         {
             "name":"Temp-Convertor",
             "description":"This is a temperture convertor that converterts the temperature's in celcius, fahrenheit and kelvin.",
             "github":"https://github.com/candice-dk3/Temp-Convertor.git",
             "vercel":"https://temp-convertor-tau.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/temp-convertor.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/temp-convertor.png?raw=true"
         },
         {
             "name":"Swegga-project",
             "description":"This is a simple product calculation page. ",
             "github":"https://github.com/candice-dk3/Swegga-project.git",
             "vercel":"https://swegga-project-two.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/swegga.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/swegga.png?raw=true"
         },
         {
             "name":"BMI-Calculator",
             "description":"This is a simple bmi calculator that calculates you bmi based on you weight, height and etc.",
             "github":"https://github.com/candice-dk3/BMI-Calculator.git",
             "vercel":"https://bmi-calculator-lake-delta.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/bmi-cal.png?raw=true"
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/bmi-cal.png?raw=true"
         }
     ],
     "education":[
