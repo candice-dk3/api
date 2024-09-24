@@ -4,45 +4,70 @@
             "name":"Candice Danelle Keet",
             "dOB":"03 October 2005",
             "email":"candicekeet3@gmail.com",
-            "address":"Bontehuewel, Cape Town"
-        },
-        {
-            "message":"Hii, my name is Candice Keet and I'm an aspiring full-stack developer. Who am I? is what you might be wondering of right. Well, I would like to introduce myself as a dedicated, hard-working and aspiring Web Developer who is hoping to soar in the tech world. I believe myself to be a hard worker who is dedicated to doing her best and nothing less. I may not be the best developer at the moment but in due time, I believe I will be at a level where I deem myself the best. During my free time I enjoy baking, being outdoors and doing some coding exercises. "
+            "address":"Bontehuewel, Cape Town",
+            "message":"Hi, my name is Candice Keet and I'm an aspiring frontend developer. Who am I? is what you might be wondering of right. Well, I would like to introduce myself as a dedicated, hard-working and aspiring Web Developer who is hoping to soar in the tech world. I believe myself to be a hard worker who is dedicated to doing her best and nothing less. I may not be the best developer at the moment but in due time, I believe I will be at a level where I deem myself the best. During my free time I enjoy baking, being outdoors and doing some coding exercises. "
         }
     ],
     "projects":[
         {
+            "name":"Artisan Aura",
+            "description":"This is my capstone project. This is a e-commerce website called 'Artisan Aura', they sell art supplies.",
+            "github":"https://github.com/candice-dk3/artisan-aura",
+            "vercel":"https://artisan-aura.web.app/",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/artisan-aura.png?raw=true"
+        },
+        {
+            "name":"Le Luxe",
+            "description":"This was a my node js end of module group project, with my partner we created an e-commerce site selling perfume.",
+            "github":"https://github.com/demilee06/Le-Luxe-Node-Project",
+            "vercel":"https://node-eomp-c56ec.web.app/",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/le-luxe.png?raw=true"
+        },
+        {
+            "name":"Previous Portfolio",
+            "description":"This was my previous portfolio.",
+            "github":"https://github.com/candice-dk3/vue-eomp-portfolio",
+            "vercel":"https://vuejs-eomp-7c14f.web.app/",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/previous-portfolio.png?raw=true"
+        },
+        {
+            "name":"JS-EOMP",
+            "description":"This was my Javascript end of module project.",
+            "github":"https://github.com/candice-dk3/JS-EOMP.git",
+            "vercel":"https://js-eomp-kappa.vercel.app/",
+            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/js-eomp.png?raw=true"
+        },
+        {
             "name":"Calculator",
+            "description":"This is a calculator",
             "github":"https://github.com/candice-dk3/Calculator.git",
             "vercel":"https://calculator-zeta-vert-97.vercel.app/",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/calculator.png?raw=true"
         },
         {
             "name":"Keyboard",
+            "description":"This is a keyboard.",
             "github":"https://github.com/candice-dk3/Keyboard.git",
             "vercel":"https://key-board-rho.vercel.app/",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/keyboard.png?raw=true"
         },
         {
             "name":"Temp-Convertor",
+            "description":"This is a temperture convertor that converterts the temperature's in celcius, fahrenheit and kelvin.",
             "github":"https://github.com/candice-dk3/Temp-Convertor.git",
             "vercel":"https://temp-convertor-tau.vercel.app/",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/temp-convertor.png?raw=true"
         },
         {
-            "name":"JS-EOMP",
-            "github":"https://github.com/candice-dk3/JS-EOMP.git",
-            "vercel":"https://js-eomp-kappa.vercel.app/",
-            "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/js-eomp.png?raw=true"
-        },
-        {
             "name":"Swegga-project",
+            "description":"This is a simple product calculation page. ",
             "github":"https://github.com/candice-dk3/Swegga-project.git",
             "vercel":"https://swegga-project-two.vercel.app/",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/swegga.png?raw=true"
         },
         {
             "name":"BMI-Calculator",
+            "description":"This is a simple bmi calculator that calculates you bmi based on you weight, height and etc.",
             "github":"https://github.com/candice-dk3/BMI-Calculator.git",
             "vercel":"https://bmi-calculator-lake-delta.vercel.app/",
             "image":"https://github.com/candice-dk3/vueProjectImages/blob/main/bmi-cal.png?raw=true"
@@ -50,8 +75,13 @@
     ],
     "education":[
         {
-            "description":"Through Life Choices I'm currently learning the skills needed to become a full-stack developer. So far the journey has been tough but being here at the academy has taught me many things and I'm open to learning more.",
-            "year":"2nd April - to present/current",
+            "description":"I've now graduated from the Life Choices Coding academy and I'm starting my internship phase at LC Studio.",
+            "year":"20 September 2024 - to present/current",
+            "placeOfInstitution":"Life Choices Studio"
+        },
+        {
+            "description":"Through Life Choices I learnt the skills needed to become a full-stack developer. The journey was tough but being at the academy has taught me many things regarding coding and I will learn more.",
+            "year":"2nd April 2024 - 20 September 2024",
             "placeOfInstitution":"Life Choices Coding Academy"
         },
         {
@@ -84,7 +114,7 @@
         {
             "name":"VueJS",
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/vue.png?raw=true",
-            "level":"Beginner"
+            "level":"Intermediate"
         },
         {
             "name":"MySQL",
