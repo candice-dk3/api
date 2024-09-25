@@ -73,7 +73,7 @@
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/bmi-cal.png?raw=true"
         }
     ],
-    "work-experience":[
+    "workExperience":[
         {
             "description":"I've now graduated from the Life Choices Coding academy and I'm starting my internship phase at LC Studio.",
             "year":"20 September 2024 - to present/current",
@@ -129,7 +129,7 @@
             "level":"Beginner"
         }
     ],
-    "soft-skills":[
+    "softSkills":[
         {
             "name": "Flexibility",
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/flexibility.png?raw=true"
