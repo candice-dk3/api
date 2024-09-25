@@ -5,7 +5,7 @@
             "dOB":"03 October 2005",
             "email":"candicekeet3@gmail.com",
             "address":"Bontehuewel, Cape Town",
-            "message":"Hi, my name is Candice Keet and I'm an aspiring frontend developer. Who am I? is what you might be wondering of right. Well, I would like to introduce myself as a dedicated, hard-working and aspiring Web Developer who is hoping to soar in the tech world. I believe myself to be a hard worker who is dedicated to doing her best and nothing less. I may not be the best developer at the moment but in due time, I believe I will be at a level where I deem myself the best. During my free time I enjoy baking, being outdoors and doing some coding exercises. "
+            "message":"Hi, my name is Candice Keet and I am an aspiring frontend developer with a passion for creating intuitive, visually appealing user interfaces. My goal is to grow my skills and contribute to innovative projects that shape the future of technology. Outside of coding, I enjoy baking, where precision meets creativity, and hiking, which keeps me grounded and inspired by nature. I also love tackling coding exercises, constantly honing my craft and exploring new challenges to push the boundaries of what I can achieve in the tech world "
         }
     ],
     "projects":[
@@ -73,12 +73,14 @@
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/bmi-cal.png?raw=true"
         }
     ],
-    "education":[
+    "work-experience":[
         {
             "description":"I've now graduated from the Life Choices Coding academy and I'm starting my internship phase at LC Studio.",
             "year":"20 September 2024 - to present/current",
             "placeOfInstitution":"Life Choices Studio"
-        },
+        }
+    ],
+    "education":[
         {
             "description":"Through Life Choices I learnt the skills needed to become a full-stack developer. The journey was tough but being at the academy has taught me many things regarding coding and I will learn more.",
             "year":"2nd April 2024 - 20 September 2024",
@@ -125,6 +127,32 @@
             "name":"Node JS",
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/node.png?raw=true",
             "level":"Beginner"
+        }
+    ],
+    "soft-skills":[
+        {
+            "name": "Flexibility",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/flexibility.png?raw=true"
+        },
+        {
+            "name": "Adaptability",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/adaptability.png?raw=true"
+        },
+        {
+            "name": "Time Management",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/time-management.png?raw=true"
+        },
+        {
+            "name": "Listening",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/listening.png?raw=true"
+        },
+        {
+            "name": "Communication",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/communication.png?raw=true"
+        },
+        {
+            "name": "Patience",
+            "image":"https://github.com/candice-dk3/portfolio-images/blob/main/patience.png?raw=true"
         }
     ]
 }
