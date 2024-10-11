@@ -154,5 +154,67 @@
             "name": "Patience",
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/patience.png?raw=true"
         }
+    ],
+    "awsCertificates":[
+        {
+            "name": "AWS Skills Centers: Introduction to the AWS Cloud",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Building a Cloud Career",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Demystifying Generative AI",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Job Roles in the Cloud",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Why Get AWS Certified?",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Computer Foundations: Part 1 - Computer & Network Hardware",
+            "image": ""
+        },
+        {
+            "name": "",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Computer Foundations: Part 3 – Storage and Databases",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Computer Foundations: Part 4 - Networking",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Becoming a Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Becoming a Cloud Practitioner Lab Session",
+            "image": ""
+        },
+        {
+            "name": "AWS Skills Centers: Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)",
+            "image": ""
+        }
     ]
 }
