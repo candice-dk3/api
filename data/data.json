@@ -4,8 +4,8 @@
             "name":"Candice Danelle Keet",
             "dOB":"03 October 2005",
             "email":"candicekeet3@gmail.com",
-            "address":"Bontehuewel, Cape Town",
-            "message":"Hi, my name is Candice Keet and I am an aspiring frontend developer with a passion for creating intuitive, visually appealing user interfaces. My goal is to grow my skills and contribute to innovative projects that shape the future of technology. Outside of coding, I enjoy baking, where precision meets creativity, and hiking, which keeps me grounded and inspired by nature. I also love tackling coding exercises, constantly honing my craft and exploring new challenges to push the boundaries of what I can achieve in the tech world "
+            "address":"Bonteheuwel, Cape Town",
+            "message":"Hi, my name is Candice Keet and I am an aspiring frontend developer with a passion for creating intuitive, visually appealing user interfaces. My goal is to grow my skills and contribute to innovative projects that shape the future of technology. Outside of coding, I enjoy baking, where precision meets creativity, and hiking, which keeps me grounded and inspired by nature. I also love tackling coding exercises, constantly honing my craft and exploring new challenges to push the boundaries of what I can achieve in the tech world."
         }
     ],
     "projects":[
@@ -60,7 +60,7 @@
         },
         {
             "name":"Swegga-project",
-            "description":"This is a simple product calculation page. ",
+            "description":"This was my first project where I used HTML, CSS and Javascript. It is a simple product calculation page.",
             "github":"https://github.com/candice-dk3/Swegga-project.git",
             "vercel":"https://swegga-project-two.vercel.app/",
             "image":"https://github.com/candice-dk3/portfolio-images/blob/main/swegga.png?raw=true"
@@ -181,11 +181,11 @@
             "image": ""
         },
         {
-            "name": "",
+            "name": "AWS Skills Centers: Computer Foundations: Part 2 - ",
             "image": ""
         },
         {
-            "name": "AWS Skills Centers: Computer Foundations: Part 3 – Storage and Databases",
+            "name": "AWS Skills Centers: Computer Foundations: Part 3 - Storage and Databases",
             "image": ""
         },
         {
